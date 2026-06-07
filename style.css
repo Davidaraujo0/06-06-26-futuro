@@ -5,7 +5,7 @@ url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap'
 /* Estilos gerais da página */
 body {
 font-family: 'Poppins', sans-serif; /* fonte obrigatória */
-background-color: #f0f4f8;
+background-color: #0767c7;
 color: #212121;
 margin: 0;
 padding: 20px;
@@ -14,8 +14,8 @@ padding: 20px;
 /* Cabeçalho */
 header {
 text-align: center;
-background-color: #0d47a1;
-color: white;
+background-color: #a10d46;
+color: rgb(180, 0, 0);
 padding: 30px;
 border-radius: 12px;
 margin-bottom: 30px;
@@ -56,3 +56,4 @@ padding: 20px;
 color: #666;
 font-size: 0.9em;
 }
+2
