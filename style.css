@@ -1,0 +1,13 @@
+/* importa a fonte do Google */
+@import
+url ('https: //fonts.googlepis.com/css2?family=Poppins : wght@400;700&display=swap') ;
+
+/* Estilos gerais da página */
+body {
+    font-family: Poppins', sans-serif;  /* fonte obrigatória */
+    background-color: #f0f4f8;  /* cor de fundo obrigatória */
+    color: #212121;
+    margin: 0;
+    padding: 20px;
+}
+
